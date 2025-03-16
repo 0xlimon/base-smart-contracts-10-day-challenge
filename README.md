@@ -9,7 +9,12 @@ A 10-day journey into smart contract development on Base Network. Each day inclu
 - [Greeter Contract](./Day-1/Greeter.sol) - Explore string handling and constructor usage
 - [Detailed Explanations](./Day-1/README.md)
 
-### Days 2-10
+### Day 2: Structs, Mappings, and Function Modifiers
+- [SimpleStorage Contract](./Day-2/SimpleStorage.sol) - Learn about structs and mappings for data storage
+- [TimeLock Contract](./Day-2/TimeLock.sol) - Explore function modifiers and time-based operations
+- [Detailed Explanations](./Day-2/README.md)
+
+### Days 3-10
 Content will be updated daily. Stay tuned for new contracts and challenges!
 
 ## Development Environment

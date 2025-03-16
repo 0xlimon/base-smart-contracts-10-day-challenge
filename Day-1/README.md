@@ -336,4 +336,8 @@ await greeter.containsWord("Base")
    - Add language support
    - Add greeting restrictions
 
+<<<<<<< HEAD
 Remember to always test thoroughly on Base Sepolia before any mainnet deployment!
+=======
+Remember to always test thoroughly on Base Sepolia before any mainnet deployment!
+>>>>>>> 4e2b815 (Add Day 2)
